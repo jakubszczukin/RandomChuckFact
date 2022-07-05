@@ -1,5 +1,5 @@
 ## General info
-Simple app which displays a random Chuck Norris Joke on the screen.
+Simple app using public API which displays a random Chuck Norris Joke on the screen.
 
 ## Technologies
 Project is created with:
