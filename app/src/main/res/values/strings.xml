@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RandomChuckFact</string>
+    <string name="fetch_random_joke">Fetch Dad Joke</string>
+    <string name="chucknorris_io">ChuckNorris.io</string>
+</resources>
